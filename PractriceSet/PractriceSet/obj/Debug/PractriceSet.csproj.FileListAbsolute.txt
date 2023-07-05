@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\bin\Debug\PractriceSet.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\bin\Debug\PractriceSet.exe
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\bin\Debug\PractriceSet.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\obj\Debug\PractriceSet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\obj\Debug\PractriceSet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\obj\Debug\PractriceSet.exe
+C:\Users\Lenovo\OneDrive\Desktop\Csharp\PractriceSet\PractriceSet\obj\Debug\PractriceSet.pdb
