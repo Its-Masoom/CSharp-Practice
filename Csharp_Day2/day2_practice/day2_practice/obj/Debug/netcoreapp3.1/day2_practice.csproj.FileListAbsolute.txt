@@ -1,0 +1,14 @@
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\bin\Debug\netcoreapp3.1\day2_practice.exe
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\bin\Debug\netcoreapp3.1\day2_practice.deps.json
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\bin\Debug\netcoreapp3.1\day2_practice.runtimeconfig.json
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\bin\Debug\netcoreapp3.1\day2_practice.runtimeconfig.dev.json
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\bin\Debug\netcoreapp3.1\day2_practice.dll
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\bin\Debug\netcoreapp3.1\day2_practice.pdb
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.csproj.AssemblyReference.cache
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.AssemblyInfoInputs.cache
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.AssemblyInfo.cs
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.csproj.CoreCompileInputs.cache
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.dll
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.pdb
+C:\Users\4843\Desktop\Csharp\Csharp_Day2\day2_practice\day2_practice\obj\Debug\netcoreapp3.1\day2_practice.genruntimeconfig.cache
