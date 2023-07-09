@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\bin\Debug\weekend1.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\bin\Debug\weekend1.exe
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\bin\Debug\weekend1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\obj\Debug\weekend1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\obj\Debug\weekend1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\obj\Debug\weekend1.exe
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Weekend1\weekend1\weekend1\obj\Debug\weekend1.pdb
