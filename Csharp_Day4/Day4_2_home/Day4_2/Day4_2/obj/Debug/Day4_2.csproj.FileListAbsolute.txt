@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\bin\Debug\Day4_2.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\bin\Debug\Day4_2.exe
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\bin\Debug\Day4_2.pdb
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\obj\Debug\Day4_2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\obj\Debug\Day4_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\obj\Debug\Day4_2.exe
+C:\Users\Lenovo\OneDrive\Desktop\CSharp-Practice-main\CSharp-Practice-main\Csharp_Day4\Day4_2\Day4_2\Day4_2\obj\Debug\Day4_2.pdb
