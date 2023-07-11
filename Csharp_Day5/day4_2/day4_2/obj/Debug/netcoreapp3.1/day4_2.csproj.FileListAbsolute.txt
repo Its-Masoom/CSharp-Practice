@@ -1,0 +1,14 @@
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\bin\Debug\netcoreapp3.1\day4_2.exe
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\bin\Debug\netcoreapp3.1\day4_2.deps.json
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\bin\Debug\netcoreapp3.1\day4_2.runtimeconfig.json
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\bin\Debug\netcoreapp3.1\day4_2.runtimeconfig.dev.json
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\bin\Debug\netcoreapp3.1\day4_2.dll
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\bin\Debug\netcoreapp3.1\day4_2.pdb
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.csproj.AssemblyReference.cache
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.AssemblyInfoInputs.cache
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.AssemblyInfo.cs
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.csproj.CoreCompileInputs.cache
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.dll
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.pdb
+C:\Users\4843\Desktop\Csharp\Csharp_Day5\day4_2\day4_2\obj\Debug\netcoreapp3.1\day4_2.genruntimeconfig.cache
