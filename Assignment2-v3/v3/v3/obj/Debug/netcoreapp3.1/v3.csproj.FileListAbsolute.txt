@@ -1,0 +1,14 @@
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\bin\Debug\netcoreapp3.1\v3.exe
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\bin\Debug\netcoreapp3.1\v3.deps.json
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\bin\Debug\netcoreapp3.1\v3.runtimeconfig.json
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\bin\Debug\netcoreapp3.1\v3.runtimeconfig.dev.json
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\bin\Debug\netcoreapp3.1\v3.dll
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\bin\Debug\netcoreapp3.1\v3.pdb
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.csproj.AssemblyReference.cache
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.AssemblyInfoInputs.cache
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.AssemblyInfo.cs
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.csproj.CoreCompileInputs.cache
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.dll
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.pdb
+C:\Users\4843\Desktop\Csharp\Assignment2-v3\v3\v3\obj\Debug\netcoreapp3.1\v3.genruntimeconfig.cache
